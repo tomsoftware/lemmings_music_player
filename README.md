@@ -10,6 +10,9 @@ This simple program "player.exe" adds an .EXE header befor the .COM Programm and
 - To compile the "player.asm" you need e.g. the "flat assembler" (http://flatassembler.net/)
 - To run this you need an DOS environment like DOS-Box (http://www.dosbox.com/)
 
+
+![screen](doc/player_image.png)
+
 Regards Thomas
 
 
