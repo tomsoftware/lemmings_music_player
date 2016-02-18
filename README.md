@@ -4,7 +4,7 @@ DOS Player to use the Lemmings "AdLib.dat" to playback Music &amp; Sounds of the
 The Lemmings Music is stored in the "AdLib.dat". After decompressing (http://www.camanis.net/lemmings/tools.php) 
  the .dat file you get a DOS-COM-File (lib/driver).
 
-This simple program "player.exe" adds an .EXE header befor the .COM Programm and runs the AdLib-lib by calling interupts 
+This simple program "player.exe" adds an .EXE header before the .COM Program and runs the AdLib-lib by calling interupts 
  (Int 61h like the original Lemmings game did)
 
 - To compile the "player.asm" you need e.g. the "flat assembler" (http://flatassembler.net/)
